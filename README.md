@@ -8,7 +8,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Discipline-Computer%20Science-4c1d95?style=flat-square&logo=bookstack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Focus-Software%20Engineering%20%26%20AI-6d28d9?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-Somaliland-312e81?style=flat-square&logo=googlemaps&logoColor=white"/>
 
