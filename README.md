@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=220&section=header&text=Mohamed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20AI%20Product%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
+<img src="assets/profile.png" width="200" alt="Mohamed"/>
+
+<br/>
+
 <a href="https://github.com/Mohamed-45-kd">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=Full+Stack+Engineer+%7C+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python;Building+AI-Powered+EdTech+for+Somaliland;Shipping+Production+Systems+on+Vercel;Product+Engineering+Mindset" alt="Typing SVG" />
 </a>
