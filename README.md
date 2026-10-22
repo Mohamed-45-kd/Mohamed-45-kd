@@ -245,7 +245,7 @@ Designing, building and deploying web platforms for schools, community organisat
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mohamed-45-kd&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<img src="https://github-trophies.vercel.app/?username=Mohamed-45-kd&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 </div>
 
@@ -255,7 +255,7 @@ Designing, building and deploying web platforms for schools, community organisat
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-45-kd&bg_color=0d0b1e&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=4c1d95&hide_border=true"/>
+<img src="https://ghchart.rshah.org/7c3aed/Mohamed-45-kd" width="100%"/>
 
 </div>
 
